@@ -1,0 +1,59 @@
+.App {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  margin-bottom: 10px;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+}
+.div-ele {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 700px;
+  height: 60px;
+  border: 1px solid black;
+  background-color: whitesmoke;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+}
+.input-element {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 700px;
+  height: 60px;
+  border: 1px solid black;
+  background-color: whitesmoke;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+}
+.label {
+  padding-left: 80px;
+  color: black;
+}
+.input-box {
+  margin-right: 50px;
+}
+.input-ele {
+  display: inline-flex;
+  justify-content: space-evenly;
+  width: 700px;
+  height: 60px;
+  border: 1px solid black;
+  background-color: whitesmoke;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.label {
+  padding-left: 100px;
+}
+.input-box {
+  margin-right: 80px;
+}
+.msg {
+  color: yellow;
+  font-size: 20px;
+}
